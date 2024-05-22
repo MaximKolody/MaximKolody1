@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T04:22:09.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="xpGqh34EqpNPfu144ckb" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T04:25:04.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Cas90zYlu40CLS8h2pzi" version="24.4.4" type="github">
   <diagram name="Сторінка-1" id="I66CP8ndcTy6_4_5-g2l">
     <mxGraphModel dx="2638" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-66" value="Go to student search" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="-70" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.142;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hiTkk5LqFYm6s-qgqpzz-66" target="hiTkk5LqFYm6s-qgqpzz-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -250,19 +250,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-70" value="Messages page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-72" value="confirmation message" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-300" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-74" value="rejection notice" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiTkk5LqFYm6s-qgqpzz-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hiTkk5LqFYm6s-qgqpzz-76" target="hiTkk5LqFYm6s-qgqpzz-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hiTkk5LqFYm6s-qgqpzz-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hiTkk5LqFYm6s-qgqpzz-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-76" value="&lt;div&gt;Filter settings&lt;/div&gt;&lt;div&gt;student search&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiTkk5LqFYm6s-qgqpzz-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hiTkk5LqFYm6s-qgqpzz-78" target="hiTkk5LqFYm6s-qgqpzz-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
